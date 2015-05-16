@@ -1,0 +1,5 @@
+# Chapter 1 ## That Thing Called "Programming"
+
+Welcome to Chapter 1 of *First Steps Into Programming: Non-Coder To Coder*! In a while, you will be having your first tastes of programming. The experience will be enlightening and will get you excited. As with what the late Neil Armstrong first said on the moon, "*One small step for a man, one giant leap for mankind*", for you, you are just taking a small step but already making a milestone for mankind by having the courage to learn programming. This is because I believe that every programmer have the potential to change the world for the better one small step at a time.    
+    
+In this chapter, you will be learning the definition of **programming**, and a brief history of it starting from the earliest known computers. You will also get to create a few simple programs in Python, a programming language designed for general use, and is used for teaching programming. Now, let the games...I mean, learning begin!
