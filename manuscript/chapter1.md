@@ -6,3 +6,6 @@ In this chapter, you will be learning the definition of **programming**, and a b
     
 ## What Is Programming?
 
+Let's define *programming*. **Programming**, in layman's terms, is an activity where a person or a group of people create and maintain computer programs. **Computer programs** are a set of instructions for the computer to execute. Examples of computer programs are *Linux*, *Crysis*, and *Mozilla Firefox*. People who create and maintain computer programs are called **programmers**. To create computer programs, programmers write **source code**, a collection of computer instructions written using a programming language. By definition, programming languages are a set of grammatical rules used in writing source code. Just think of programming languages as something similar to human languages (like English, Waray-Waray, or Spanish) but for computers. Programmers usually use a *text editor* (for example, Notepad and gEdit) or an *IDE* (Integrated Development Environment), a software that contains useful tools for programmers to develop software (examples are Visual Studio and IntelliJ IDEA), to write source code.    
+    
+Computers can only understand instructions in binary code/machine code where only 0s and 1s are used.
